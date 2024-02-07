@@ -12,8 +12,10 @@
     <ClInclude Include="exceptions.h">
       <Filter>exceptions</Filter>
     </ClInclude>
-    <ClInclude Include="main.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
       <Filter>main</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
